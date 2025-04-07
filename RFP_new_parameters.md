@@ -998,7 +998,8 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
-	None
+	Mandatory by law but limited to public or private entity only (Art. 3 (12) of Dir. 2012/34). 
+
 
 ------------------------------------------------------------
 
@@ -1106,7 +1107,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4 (2)(b) of Reg. 2017/2177)
 
 ------------------------------------------------------------
 
@@ -1160,7 +1161,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4 (2)(b) of Reg. 2017/2177)
 
 ------------------------------------------------------------
 
